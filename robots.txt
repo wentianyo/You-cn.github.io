@@ -1,4 +1,4 @@
-# robots.txt for www.wentianyou.cn
+# robots.txt for official.wentianyou.cn
 User-agent: *
 Allow: /
 Sitemap: https://www.wentianplay.net/sitemap.xml
